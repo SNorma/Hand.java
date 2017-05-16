@@ -1,7 +1,6 @@
 //Norma S
 //CST-338
 //05/14/17
-//Assignment 3
 //Class representing a hand of cards.
 public class Hand
 {
